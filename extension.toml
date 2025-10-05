@@ -1,0 +1,7 @@
+id = "nice-dark"
+name = "Nice Dark"
+version = "1.0.0"
+schema_version = 1
+authors = ["Yurii Biurher"]
+description = "Nice Dark Theme for Zed"
+repository = "https://github.com/jokruger/nice_dark.zed"
