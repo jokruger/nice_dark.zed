@@ -376,6 +376,12 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "function.method": {
+                        "color": "#DCDCAA",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "invalid": {
                         "color": "#F44747",
                         "background_color": null,
@@ -384,6 +390,12 @@
                     },
                     "keyword": {
                         "color": "#C586C0",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "label": {
+                        "color": "#C8C8C8",
                         "background_color": null,
                         "font_style": null,
                         "font_weight": null
@@ -408,6 +420,12 @@
                     },
                     "module": {
                         "color": "#AA7942",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "namespace": {
+                        "color": "#4EC9B0",
                         "background_color": null,
                         "font_style": null,
                         "font_weight": null
